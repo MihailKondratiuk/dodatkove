@@ -1,0 +1,26 @@
+img{
+  width: 400px;
+border: 10px double black;
+}
+#modal-view{
+background: rgba(0, 0, 0, 0.9);
+position: fixed;
+top: 0;
+left: 0;
+height: 800px;
+max-width: 100%;
+width: 100%;
+}
+#modalka{
+  display: block;
+width: auto;
+  height: 800px;
+  border: none;
+margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+}
+h1{
+  text-align: center;
+
+}
